@@ -1,0 +1,9 @@
+{
+    "name": "wordslocked/locked",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "WordsLocked": "src/"
+        }
+    }
+}
