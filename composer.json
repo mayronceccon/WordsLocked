@@ -1,6 +1,13 @@
 {
     "name": "wordslocked/locked",
+    "authors": [
+        {
+            "name": "Mayron Ceccon",
+            "email": "mayron.ceccon@gmail.com"
+        }
+    ],
     "require": {},
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "WordsLocked": "src/"
