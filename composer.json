@@ -9,7 +9,7 @@
         }
     ],
     "require": {},
-    "minimum-stability": "1.0",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
             "WordsLocked": "src/"
