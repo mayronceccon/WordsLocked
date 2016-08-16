@@ -1,5 +1,7 @@
 {
     "name": "wordslocked/locked",
+    "description": "Bloquear Palavras",
+    "type": "library",
     "authors": [
         {
             "name": "Mayron Ceccon",
@@ -7,7 +9,7 @@
         }
     ],
     "require": {},
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-0": {
             "WordsLocked": "src/"
